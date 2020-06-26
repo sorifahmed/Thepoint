@@ -1,0 +1,73 @@
+@media screen and (max-width: 980px){
+.menu {
+    border-right: 0px solid #ddd;
+    border-bottom: 1px solid #ddddc1;
+    padding: 7px 0px;
+}
+.navbar-nav.mr-auto {
+    margin-top: 13px;
+}
+.mainmenu ul li a {
+    margin-left: 0;
+}
+.mainmenu .span {
+    margin-left: 0;
+}
+}
+
+
+@media screen and (max-width: 768px){
+span.point {
+    position: absolute;
+}
+input#inputPassword2 {
+    width: 100%;
+}
+.form-group.mb-2 {
+    margin-left: -53px;
+}
+.contactsection {
+    text-align: center;
+}
+.contacttext p {
+    text-align: center;
+}
+.headertext {
+    margin-top: 12px;
+    margin-left: 35px;
+}
+}
+
+@media screen and (max-width: 576px){
+.headertext {
+    margin-top: 12px;
+    margin-left: 12px;
+}
+.social i{
+	margin-bottom: 10px;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
